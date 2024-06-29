@@ -1,5 +1,5 @@
 
-# scripts_cybersec
+# Scripts_Cybersec
 
 Este repositorio contiene una colección de scripts creados por mí para diversas tareas relacionadas con la ciberseguridad y la automatización.
 Los scripts están diseñados para facilitar diferentes aspectos de la seguridad informática y pueden ser utilizados y adaptados según sea necesario.
