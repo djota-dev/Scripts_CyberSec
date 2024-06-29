@@ -1,6 +1,6 @@
 import requests
 
-url = "http://afirmm.com"
+url = "http://localhost:8000"
 
 with open('../common.txt', 'r') as file_list:
     for file in file_list.readlines():
