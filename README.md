@@ -1,4 +1,4 @@
- ``sh
+```sh
 # scripts_cybersec
 
 Este repositorio contiene una colección de scripts creados por mí para diversas tareas relacionadas con la ciberseguridad y la automatización.
