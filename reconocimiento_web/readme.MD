@@ -1,3 +1,4 @@
+```sh
 # Reconocimiento Web con Python
 
 Este proyecto es un script de Python que utiliza la biblioteca `requests`
@@ -11,7 +12,7 @@ para realizar fuerza bruta de directorios en un sitio web específico. Utiliza u
 
 Puedes instalar la biblioteca `requests` usando pip:
 
-```sh
+
 pip install requests
 
 Uso:
